@@ -16,8 +16,7 @@ color_labels.csv - Contains ColorName for each ColorID
 
 state_labels.csv - Contains StateName for each StateID
 
-AdoptionSpeed
-Contestants are required to predict this value. The value is determined by how quickly, if at all, a pet is adopted. The values are determined in the following way:
+AdoptionSpeed: 
 0 - Pet was adopted on the same day as it was listed.
 1 - Pet was adopted between 1 and 7 days (1st week) after being listed.
 2 - Pet was adopted between 8 and 30 days (1st month) after being listed.
